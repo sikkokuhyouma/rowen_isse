@@ -1,5 +1,5 @@
 ---
-name: '意見'
+name: 'ご意見'
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
