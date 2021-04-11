@@ -1,4 +1,4 @@
-# rowen_isse
+# rowen_issues
 バグ報告などです。issues用です。
 
 # 報告仕方
