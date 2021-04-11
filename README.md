@@ -1,5 +1,5 @@
 # rowen_issues
-バグ報告などです。issues用です。
+ローウェンBOTのバグ報告などです。issues用です。
 
 # 報告仕方
 １．issuesを押し、Newissuesを押す
