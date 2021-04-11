@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: '機能リクエスト'
 about: Suggest an idea for this project
 title: ''
 labels: ''
