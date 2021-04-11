@@ -1,10 +1,12 @@
 ---
 name: 'ご意見・その他'
-about: Describe this issue template's purpose here.
+about: '意見などはこちらにどうぞ。'
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
+**意見の場合**
 
+どのようなご意見なのかを報告お願いします。
