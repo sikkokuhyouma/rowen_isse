@@ -1,6 +1,6 @@
 ---
 name: '機能リクエスト'
-about: Suggest an idea for this project
+about: 'どのような機能をリクエストしたいかはこちらにどうぞ。'
 title: ''
 labels: ''
 assignees: ''
