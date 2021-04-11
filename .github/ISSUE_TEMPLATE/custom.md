@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: '意見'
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
