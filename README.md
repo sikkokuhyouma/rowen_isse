@@ -1,8 +1,7 @@
 # rowen_isse
 バグ報告などです。issues用です。
 
-報告仕方
-
+# 報告仕方
 １．issuesを押し、Newissuesを押す
 
 ２．その後はどういうのかを選びます
